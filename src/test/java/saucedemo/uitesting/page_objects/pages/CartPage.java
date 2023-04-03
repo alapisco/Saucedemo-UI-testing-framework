@@ -64,7 +64,15 @@ public class CartPage extends BasePage {
         return cartItems;
     }
 
-
+    /**
+     * Clicks the checkout button and navigates to the Checkout Step One page.
+     *
+     * @return an instance of CheckoutStepOnePage
+     */
+    public CheckoutStepOnePage clickCheckoutButton() {
+        clickWhenClickable(checkoutButton);
+        return new CheckoutStepOnePage(driver);
+    }
 
     /**
      * Get the index of the inventory item by its name.
