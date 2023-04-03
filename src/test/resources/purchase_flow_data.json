@@ -1,0 +1,12 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "firstName": "John",
+  "lastName": "Doe",
+  "zipcode": "12345",
+  "itemsToPurchase": [
+    "Sauce Labs Backpack",
+    "Sauce Labs Bike Light",
+    "Sauce Labs Bolt T-Shirt"
+  ]
+}
