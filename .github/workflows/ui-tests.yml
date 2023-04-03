@@ -1,0 +1,17 @@
+name: UI Tests
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  run-ui-tests-chrome:
+    uses: ./.github/workflows/execute-tests.yml
+    with:
+      browser: chrome
+  run-ui-tests-firefox:
+    uses: ./.github/workflows/execute-tests.yml
+    with:
+      browser: firefox    
