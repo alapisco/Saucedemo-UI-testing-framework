@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Apr 05 15:10:28 GMT 2023","Wed Apr 05 15:10:52 GMT 2023","23410","","saucedemo.uitesting.tests.LoginTests","","saucedemo.uitesting.tests.LoginTests","invalidCredentials","invalidCredentials()",""
+"passed","Wed Apr 05 15:09:13 GMT 2023","Wed Apr 05 15:09:24 GMT 2023","10836","","saucedemo.uitesting.tests.CartTests","","saucedemo.uitesting.tests.CartTests","itemsPreserveSelectionOrder","itemsPreserveSelectionOrder()",""
+"passed","Wed Apr 05 15:09:24 GMT 2023","Wed Apr 05 15:09:34 GMT 2023","10163","","saucedemo.uitesting.tests.CartTests","","saucedemo.uitesting.tests.CartTests","removeItemsFromCart","removeItemsFromCart()",""
+"passed","Wed Apr 05 15:08:54 GMT 2023","Wed Apr 05 15:09:13 GMT 2023","18781","","saucedemo.uitesting.tests.InventoryTests","","saucedemo.uitesting.tests.InventoryTests","AddRemoveItems","AddRemoveItems()",""
+"passed","Wed Apr 05 15:09:53 GMT 2023","Wed Apr 05 15:10:05 GMT 2023","11613","","saucedemo.uitesting.tests.PurchaseFlowTests","","saucedemo.uitesting.tests.PurchaseFlowTests","checkoutWithNoItems","checkoutWithNoItems()",""
+"passed","Wed Apr 05 15:09:34 GMT 2023","Wed Apr 05 15:09:53 GMT 2023","18726","","saucedemo.uitesting.tests.PurchaseFlowTests","","saucedemo.uitesting.tests.PurchaseFlowTests","purchaseItems","purchaseItems()",""
+"passed","Wed Apr 05 15:10:05 GMT 2023","Wed Apr 05 15:10:28 GMT 2023","23702","","saucedemo.uitesting.tests.LoginTests","","saucedemo.uitesting.tests.LoginTests","lockedOutUser","lockedOutUser()",""
