@@ -60,4 +60,4 @@ jobs:
         
     # Show the report link   
     - name : Report URL
-      run: echo "https://alapisco.github.io/sauce-test/${{ github.run_number }}"      
+      run: echo "https://alapisco.github.io/Saucedemo-UI-testing-framework/${{ github.run_number }}"      
